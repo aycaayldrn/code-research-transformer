@@ -1,0 +1,7 @@
+# --- Git / OS Specific ---
+/.git 
+
+# --- Jupyter Notebook Specific ---
+.ipynb_checkpoints/
+*.pyc
+.ipynb
